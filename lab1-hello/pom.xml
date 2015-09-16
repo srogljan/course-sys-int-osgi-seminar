@@ -19,5 +19,6 @@
         <module>hello-en</module>
         <module>hello-de</module>
         <module>hello-fr</module>
+        <module>hello-tracker</module>
     </modules>
 </project>
